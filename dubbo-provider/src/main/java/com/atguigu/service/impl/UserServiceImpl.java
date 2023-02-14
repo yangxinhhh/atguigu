@@ -10,5 +10,6 @@ import com.alibaba.druid.support.json.JSONUtils;
 public class UserServiceImpl {
     public void test(){
         System.out.println("hello world!");
+        System.out.println("hello hot-fix");
     }
 }
